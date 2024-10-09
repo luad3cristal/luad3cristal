@@ -10,11 +10,11 @@
 
 <section align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=250px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luad3cristal&layout=donut&locale=pt-br&theme=radical&bg_color=00000000" />
+    <img height=250px align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=luad3cristal&layout=donut&locale=pt-br&theme=radical&bg_color=FFFFFF" />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=270px align="center" src="https://github-readme-stats.vercel.app/api?username=luad3cristal&hide=contribs&show_icons=true&theme=radical&bg_color=00000000&locale=pt-br&card_width=460" />
+    <img height=270px align="center" src="https://github-readme-stats.vercel.app/api?username=luad3cristal&hide=contribs&show_icons=true&theme=radical&bg_color=FFFFFF&locale=pt-br&card_width=460" />
 
   </a>
 </section>
@@ -27,9 +27,9 @@
   <img align="center" alt="Luana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Luana-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Luana-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Luana-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="Luana-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 </div>
 
 ##
