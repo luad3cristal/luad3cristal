@@ -16,7 +16,7 @@
 
 </section>
 
-<h2 align="left">💻 Habiilidades</h2>
+<h2 align="left">💻 Habilidades</h2>
 
 > Ferramentas e tecnologias que tenho conhecimento.
 
@@ -24,6 +24,7 @@
   <img align="center" alt="Luana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Luana-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Luana-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Luana-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">      
 </div>
@@ -32,7 +33,7 @@
 
 <section>
   
-- 🔭 Atualmente trabalhando em minhas habilidades através dos desafios do Codelab.
+- 🔭 Trabalhando em minhas habilidades através dos desafios do Codelab.
 - 🌱 Estou desenvolvendo meu conhecimento Fullstack por meio das aulas do Vai na Web.
 - 📫 Vamos nos conectar? Dá uma olhada no meu  <a href="https://www.linkedin.com/in/luad3cristal/" target="_blank">Linkedin</a>.
 - ⚡ Fato interessante: Sou uma leitora ávida e estou sempre aberta a sugestões de livro.
