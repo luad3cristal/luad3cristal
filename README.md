@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Eu sou Luana Lima. Sou programadora Front-End Junior e estudante de Análise e Desenvolvimento de Sistemas no IFBA!
+  Eu sou Luana Lima. Atualmente sou programadora Front-End no LabraSoft e estudante de Análise e Desenvolvimento de Sistemas no IFBA!
 </h3>
 
 ###
@@ -34,8 +34,8 @@
 
 <section>
   
-- 🔭 Trabalhando em minhas habilidades através dos desafios do Codelab.
-- 🌱 Estou desenvolvendo meu conhecimento Fullstack por meio das aulas do Vai na Web.
+- 🔭 Atualmente estou trabalhando como programadora Front-end para o LabraSoft.
+- 🌱 Estou desenvolvendo meu conhecimento de Front-end por meio do meu trabalho e alguns projetos pessoais e open-sources.
 - 📫 Vamos nos conectar? Dá uma olhada no meu  <a href="https://www.linkedin.com/in/luad3cristal/" target="_blank">Linkedin</a>.
 - ⚡ Fato interessante: Sou uma leitora ávida e estou sempre aberta a sugestões de livro.
 </section>
