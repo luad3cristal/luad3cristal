@@ -11,7 +11,7 @@
 <section align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=250px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luad3cristal&layout=donut&locale=pt-br&theme=radical" />
-    <img height=250px align="center" src="https://github-readme-stats.vercel.app/api?username=luad3cristal&show_icons=true&theme=radical&locale=pt-br&card_width=460" />
+    <img height=250px align="center" src="https://github-readme-stats.vercel.app/api?username=luad3cristal&show_icons=true&theme=radical&locale=pt-br" />
   </a>
 </section>
 
@@ -35,8 +35,6 @@
   <img align="center" alt="Luana-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Luana-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">  
 </div>
-
-<br>
 
 ##
 
