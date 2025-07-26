@@ -34,8 +34,8 @@
 
 <section>
   
-- 🔭 Atualmente estou trabalhando como programadora Front-end para o LabraSoft.
-- 🌱 Estou desenvolvendo meu conhecimento de Front-end por meio do meu trabalho e alguns projetos pessoais e open-sources.
+- 🔭 No momento estou trabalhando como programadora Front-end para o LabraSoft.
+- 🌱 Estou desenvolvendo meu conhecimento de Front-end por meio do meu trabalho e alguns projetos pessoais e open-sources, como o <a href="https://github.com/rafaelD-S/que-aula" target="_blank">Que-Aula</a>.
 - 📫 Vamos nos conectar? Dá uma olhada no meu  <a href="https://www.linkedin.com/in/luad3cristal/" target="_blank">Linkedin</a>.
 - ⚡ Fato interessante: Sou uma leitora ávida e estou sempre aberta a sugestões de livro.
 </section>
