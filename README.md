@@ -40,6 +40,6 @@
 
 - 🚀 Desenvolvedora Front-End no LabraSoft com experiência em Flutter.
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas no IFBA
-- 🌱 Desenvolvendo meu conhecimento por meio do meu trabalho, alguns projetos pessoais e open-sources, como o <a href="https://github.com/rafaelD-S/que-aula" target="_blank" style="color: baby-blue">Que-Aula</a>.
+- 🌱 Desenvolvendo minhas habilidades através de projetos profissionais, pessoais e open-source como o [Que-Aula](https://github.com/rafaelD-S/que-aula)
 - 📫 Vamos nos conectar? Dá uma olhada no meu <a href="https://www.linkedin.com/in/luad3cristal/" target="_blank" style="color: baby-blue">Linkedin</a>.
 - 📚 Sou uma leitora ávida e estou sempre aberta a recomendações de livros.
