@@ -1,9 +1,9 @@
 ﻿<h1 align="center">
-  Oi! 👋🏾 Bem vindo ao meu perfil!
+  Oi! 👋🏾 Bem-vinda(o) ao meu perfil!
 </h1>
 
 <h3 align="center">
-  Eu sou Luana Lima. Atualmente sou programadora Front-End no LabraSoft e estudante de Análise e Desenvolvimento de Sistemas no IFBA!
+  Desenvolvedora Front-End | Estudante de ADS | Apaixonada por tecnologia
 </h3>
 
 ###
@@ -13,29 +13,35 @@
     <img height=250px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luad3cristal&layout=donut&locale=pt-br&theme=radical" />
     <img height=250px align="center" src="https://github-readme-stats.vercel.app/api?username=luad3cristal&show_icons=true&theme=radical&locale=pt-br&card_width=460" />
   </a>
-
 </section>
 
-<h2 align="left">💻 Habilidades</h2>
+<br>
 
-> Ferramentas e tecnologias que tenho conhecimento.
+<h2 align="left">💻 Tech Stack</h2>
 
-<div style="display: inline_block">
+<h3>Tecnologias</h3>
+<div>
   <img align="center" alt="Luana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Luana-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="Luana-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="Luana-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">      
+  <img align="center" alt="Luana-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="Luana-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">    
+  <img align="center" alt="Luana-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">    
 </div>
+
+<h3>Ferramentas</h3>
+<div>
+  <img align="center" alt="Luana-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="Luana-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">  
+</div>
+
+<br>
 
 ##
 
-<section>
-  
-- 🔭 No momento estou trabalhando como programadora Front-end para o LabraSoft.
-- 🌱 Estou desenvolvendo meu conhecimento de Front-end por meio do meu trabalho e alguns projetos pessoais e open-sources, como o <a href="https://github.com/rafaelD-S/que-aula" target="_blank">Que-Aula</a>.
-- 📫 Vamos nos conectar? Dá uma olhada no meu  <a href="https://www.linkedin.com/in/luad3cristal/" target="_blank">Linkedin</a>.
-- ⚡ Fato interessante: Sou uma leitora ávida e estou sempre aberta a sugestões de livro.
-</section>
+- 🚀 Desenvolvedora Front-End no LabraSoft com experiência em Flutter.
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas no IFBA
+- 🌱 Desenvolvendo meu conhecimento por meio do meu trabalho, alguns projetos pessoais e open-sources, como o <a href="https://github.com/rafaelD-S/que-aula" target="_blank" style="color: baby-blue">Que-Aula</a>.
+- 📫 Vamos nos conectar? Dá uma olhada no meu <a href="https://www.linkedin.com/in/luad3cristal/" target="_blank" style="color: baby-blue">Linkedin</a>.
+- 📚 Sou uma leitora ávida e estou sempre aberta a recomendações de livros.
