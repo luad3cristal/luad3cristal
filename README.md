@@ -11,7 +11,7 @@
 <section align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=250px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luad3cristal&layout=donut&locale=pt-br&theme=radical" />
-    <img height=250px align="center" src="https://github-readme-stats.vercel.app/api?username=luad3cristal&show_icons=true&theme=radical&locale=pt-br" />
+    <img height=250px align="center" src="https://github-readme-stats.vercel.app/api?username=luad3cristal&show_icons=true&theme=radical&locale=pt-br&card_width=460" />
   </a>
 </section>
 
