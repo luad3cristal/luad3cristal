@@ -10,9 +10,9 @@
 
 <section align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=250px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luad3cristal&layout=donut&locale=pt-br&theme=radical" />   
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luad3cristal&layout=donut&locale=pt-br&theme=radical" />   
     <br>
-    <img height=250px align="center" src="https://github-readme-stats.vercel.app/api?username=luad3cristal&show_icons=true&theme=radical&locale=pt-br&card_width=460" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=luad3cristal&show_icons=true&theme=radical&locale=pt-br&card_width=460" />
   </a>
 </section>
 
@@ -44,4 +44,5 @@
 - 🌱 Desenvolvendo minhas habilidades através de projetos profissionais, pessoais e open-source como o [Que-Aula](https://github.com/rafaelD-S/que-aula)
 - 📫 Vamos nos conectar? Dá uma olhada no meu <a href="https://www.linkedin.com/in/luad3cristal/" target="_blank" style="color: baby-blue">Linkedin</a>.
 - 📚 Sou uma leitora ávida e estou sempre aberta a recomendações de livros.
+
 
