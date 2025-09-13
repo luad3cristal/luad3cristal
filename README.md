@@ -10,7 +10,7 @@
 
 <section align="center" gap="10">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="300x" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luad3cristal&layout=donut&locale=pt-br&theme=radical" />   
+    <img height="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luad3cristal&layout=donut&locale=pt-br&theme=radical" />   
     <br>
     <img height="300px" align="center" src="https://github-readme-stats.vercel.app/api?username=luad3cristal&show_icons=true&theme=radical&locale=pt-br&card_width=480" />
   </a>
